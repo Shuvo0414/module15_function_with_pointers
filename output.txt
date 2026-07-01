@@ -1,3 +1,3 @@
-Address of x variable in main function - 0x16ae12b08
-Address of x variable in fun fucntion - 0x16ae12adc
-Main function er x er value - 10
+Address of x variable - 0x16b3ceb08
+Value of P - 500
+Value of x variable - 500

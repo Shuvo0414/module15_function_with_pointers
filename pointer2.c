@@ -5,7 +5,7 @@ int main()
     /*
     x memory te 8 byte jaga niche karon etar data type hochhe double. and x er vlaue hocche 5.77. 
     */
-    double x = 5.77;
+    double x = 5.23;
 
     /*
     prt(pointer) variable o memory te jayga niche 8 byte karon amr system hochhe mackbook. and ay ptr variable x er address mne memory location store korche. and ay prt er nijer o memory adress ba location ache like x variable er moto.
