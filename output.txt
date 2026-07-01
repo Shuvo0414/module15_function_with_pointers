@@ -1,6 +1,3 @@
-X er address - 0x16d792b28
-Ptr er value-0x16d792b28
-Ptr er address - 0x16d792b20
-Ptr er memory size- 8
-X er value- 200
-X er value- 200
+X er value- 100.34
+X er value - 100.34
+X er value - 100.34
