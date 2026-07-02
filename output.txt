@@ -1,8 +1,1 @@
-0th index er value - 10
-0th index er value - 10
-1st index er value - 20
-1st index er value - 20
-20
-20
-20
-20
+20 30 40 50 60 
